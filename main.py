@@ -28,3 +28,4 @@ output_file_name = 'output.csv'
 data.to_csv(output_file_name, index=False)
 
 print(f"Analysis complete! The file has been reordered by the frequency of words in the '세부 카테고리' column and saved as '{output_file_name}'.")
+
